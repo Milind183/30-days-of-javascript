@@ -40,9 +40,6 @@ function tenMostFrequentWords(sentense){
         }
     }
     x = Object.values(obj)
-    console.log(x.sort(function((a,b) => {
-
-    }));
     // for([x,y] of x){
     //     result.push({word: x, count:y})
     // }
